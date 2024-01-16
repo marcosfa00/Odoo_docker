@@ -53,8 +53,8 @@ docker-compose ps
 ```bash
 http://localhost:8069
 ```
+![odoo.png](odoo.png)
 
-![Screenshot 2024-01-16 at 1.51.22 PM.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F2h%2Fk4hf9p252fj60670t_4bmh1m0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_uGfKX6%2FScreenshot%202024-01-16%20at%201.51.22%E2%80%AFPM.png)
 
 
 
