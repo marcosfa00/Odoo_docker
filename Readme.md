@@ -56,6 +56,31 @@ http://localhost:8069
 ![odoo.png](odoo.png)
 
 
+# LEVANTAMOS UN PROJECT EN ODOO
+# ==============================
+
+### 1. Busqueda de project
+
+Buscamos project en el buscador de Odoo y lo instalamos
+
+Además hemos creado 3 nuevos perfiles y no el Mitchel por defecto, como nuestro proyecto será
+sobre un **mitin** politico, hemos creado los siguientes perfiles:
+
+![users.png](users.png)
+
+### 2. Creamos un nuevo proyecto
+
+![proyecto.png](proyecto.png)
+
+En este proyecto estructuraremos los diferentes temas a tratar en el miting politico
+
+![diferentes temas a tratar.png](diferentes%20temas%20a%20tratar.png)
+
+Como podemos comprobar, hemos creado un proyecto con 4 tareas, cada una de ellas diferentes responsables.
+
+
+
+
 
 
 
